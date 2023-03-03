@@ -1,3 +1,4 @@
+import numpy
 from flask import Flask,request,render_template
 from random import randint
 
